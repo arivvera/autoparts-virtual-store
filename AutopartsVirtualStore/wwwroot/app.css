@@ -49,3 +49,11 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+/*  */
+
+.nav-item img {
+    width: 1.25rem;
+    height: 1.25rem;
+    margin-right: .75rem;
+}

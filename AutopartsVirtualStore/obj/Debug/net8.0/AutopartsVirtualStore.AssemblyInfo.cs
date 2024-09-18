@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutopartsVirtualStore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ec0acd89d09eb1e64df6a5bf2d4613a954fa5e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AutopartsVirtualStore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutopartsVirtualStore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

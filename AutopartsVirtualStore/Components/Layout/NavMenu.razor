@@ -1,6 +1,8 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">AutopartsVirtualStore</a>
+﻿<div class="top-row navbar navbar-dark">
+    <div class="container-fluid" style="justify-content: center;">
+        <span class="navbar-brand" href="" style="margin-right: .6rem;">
+            Welcome, Owner!
+        </span>
     </div>
 </div>
 
@@ -9,12 +11,42 @@
 <div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
     <nav class="flex-column">
         <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+            <NavLink class="nav-link" href="/" Match="NavLinkMatch.All">
                 <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
             </NavLink>
         </div>
 
         <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <img src="bootstrap-icons/cart-fill.svg" alt=""> Products
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <img src="bootstrap-icons/coin.svg" alt=""> Payments
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
+                <img src="bootstrap-icons/truck.svg" alt=""> Orders
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="">
+                <img src="bootstrap-icons/shop.svg" alt=""> Store
+            </NavLink>
+        </div>
+
+        <div class="nav-item px-3">
+            <NavLink class="nav-link" href="">
+                <img src="bootstrap-icons/arrow-right-circle-fill.svg" alt=""> Sign Out
+            </NavLink>
+        </div>
+
+        @* <div class="nav-item px-3">
             <NavLink class="nav-link" href="counter">
                 <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
             </NavLink>
@@ -24,7 +56,7 @@
             <NavLink class="nav-link" href="weather">
                 <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
             </NavLink>
-        </div>
+        </div> *@
     </nav>
 </div>
 

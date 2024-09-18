@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutopartsVirtualStore", "AutopartsVirtualStore\AutopartsVirtualStore.csproj", "{36431557-A1EF-45E1-B1E1-5BFF5E3DD0E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "..\..\Projects\LittleDotnetWorkspace\BlazorApp1\BlazorApp1.csproj", "{BA307FEA-92A0-4B29-9618-CC241D4428BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{36431557-A1EF-45E1-B1E1-5BFF5E3DD0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36431557-A1EF-45E1-B1E1-5BFF5E3DD0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36431557-A1EF-45E1-B1E1-5BFF5E3DD0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA307FEA-92A0-4B29-9618-CC241D4428BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA307FEA-92A0-4B29-9618-CC241D4428BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA307FEA-92A0-4B29-9618-CC241D4428BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA307FEA-92A0-4B29-9618-CC241D4428BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
