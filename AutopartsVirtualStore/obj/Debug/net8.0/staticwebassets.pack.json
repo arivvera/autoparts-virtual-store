@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AutopartsVirtualStore.bundle.scp.css",
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AutopartsVirtualStore.bundle.scp.css",
       "PackagePath": "staticwebassets\\AutopartsVirtualStore.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\app.css",
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap-icons\\arrow-right-circle-fill.svg",
-      "PackagePath": "staticwebassets\\bootstrap-icons\\arrow-right-circle-fill.svg"
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\arrow-right-circle-fill.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\arrow-right-circle-fill.svg"
     },
     {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap-icons\\cart-fill.svg",
-      "PackagePath": "staticwebassets\\bootstrap-icons\\cart-fill.svg"
-    },
-    {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap-icons\\coin.svg",
-      "PackagePath": "staticwebassets\\bootstrap-icons\\coin.svg"
-    },
-    {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap-icons\\shop.svg",
-      "PackagePath": "staticwebassets\\bootstrap-icons\\shop.svg"
-    },
-    {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap-icons\\truck.svg",
-      "PackagePath": "staticwebassets\\bootstrap-icons\\truck.svg"
-    },
-    {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\favicon.png",
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\cart-fill.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\cart-fill.svg"
+    },
+    {
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\coin.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\coin.svg"
+    },
+    {
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\shop.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\shop.svg"
+    },
+    {
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\bootstrap\\truck.svg",
+      "PackagePath": "staticwebassets\\bootstrap\\truck.svg"
+    },
+    {
+      "Id": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

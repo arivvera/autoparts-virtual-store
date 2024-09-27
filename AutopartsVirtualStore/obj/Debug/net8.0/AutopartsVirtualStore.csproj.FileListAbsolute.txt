@@ -28,3 +28,14 @@ C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\obj\Debu
 C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\obj\Debug\net8.0\AutopartsVirtualStore.pdb
 C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\obj\Debug\net8.0\AutopartsVirtualStore.genruntimeconfig.cache
 C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\obj\Debug\net8.0\ref\AutopartsVirtualStore.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Auth0.AspNetCore.Authentication.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\obj\Debug\net8.0\AutopartsVirtualStore.csproj.AssemblyReference.cache
+C:\Users\alejandro\GitHub\autoparts-virtual-store\AutopartsVirtualStore\obj\Debug\net8.0\Autopart.BE5514FC.Up2Date

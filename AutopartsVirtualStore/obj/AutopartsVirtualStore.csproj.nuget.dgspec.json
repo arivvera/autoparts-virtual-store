@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj": {}
+    "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj": {
+    "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj",
+        "projectUniqueName": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj",
         "projectName": "AutopartsVirtualStore",
-        "projectPath": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj",
+        "projectPath": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\AutopartsVirtualStore.csproj",
         "packagesPath": "C:\\Users\\alejandro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\obj\\",
+        "outputPath": "c:\\Users\\alejandro\\GitHub\\autoparts-virtual-store\\AutopartsVirtualStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -49,6 +49,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Auth0.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[1.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
